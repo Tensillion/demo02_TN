@@ -1,2 +1,6 @@
 "Hello from Tensillion" 
+<<<<<<< HEAD
 goodbye from tensillion 
+=======
+"In a parallel universe, we are changing history!" 
+>>>>>>> newfeature
